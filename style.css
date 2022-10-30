@@ -1,0 +1,36 @@
+.main-grid
+{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+a
+{
+    width: auto; 
+}
+h2 
+{
+    text-align: center;
+    margin: auto;
+    border: 4px solid black;
+}
+
+body
+{ 
+    background-color: lightskyblue;
+}
+h1
+{
+    text-align: center;
+    margin: auto;
+    border: 5px solid black;
+}
+img{
+    margin: auto;
+    border: 4px solid black;
+}
+a 
+{
+    text-size-adjust: 4px;
+    color: cyan;
+}

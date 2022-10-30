@@ -1,0 +1,86 @@
+.fff
+{
+    
+    background-size: cover;
+    background-image: url("lef.jpg");
+    
+}
+.rrr
+{
+    background-size: cover;
+    background-position-y: 12%;
+    background-repeat: no-repeat;
+    background-image: url("riot.jpg");
+}
+.spel
+{
+    background-size: cover;
+    background-image: url("info.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: 0%;
+}
+.smite
+{
+    background-image: url("smite.jpg");
+    background-size: cover;
+    background-position-x: 50%;
+}
+.Dota
+{
+    background-size: cover;
+    background-position: 50%;
+    background-image: url("dota.webp");
+}
+body
+{
+    background-color: black;
+}
+.lower
+{
+    text-align: left;
+    margin-top:37% ;
+}
+.grr
+{
+    margin-top: 6%;
+    display: grid;
+    text-align:center;  
+    grid-template-columns: 1fr 1fr;
+    
+}
+a 
+{
+    margin: auto;
+    border: 1mm solid black;
+    background-color: lightslategray;
+
+}
+.left
+{
+    width: 50%;
+    margin-left: 1%;    
+}
+.right
+{
+    text-align: center;
+    width: 50%;
+
+}
+.gild
+{
+
+    margin-top: 2%;
+    margin-right: 3%;
+
+}
+h2 
+{
+
+    size: 1%;
+    margin: auto;
+    margin-top: 2%;
+    color: rgb(255, 255, 255);
+    border: 3px solid darkslategrey;
+    background-color: rgb(18, 12, 12);
+}
